@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function Page() {
+export default function 1Page() {
   return (
     <div className="flex items-center justify-center h-screen bg-purple-400">
       <div className="bg-transparent border-2 border-white p-8 rounded-2xl w-[400px]">
